@@ -3,4 +3,10 @@
     <style name="SplashTheme" parent="Theme.AppCompat.NoActionBar">
         <item name="android:windowBackground">@android:color/white</item>
     </style>
+    <style name="YourCardView" parent="Widget.MaterialComponents.CardView">
+        <item name="cardBackgroundColor">@color/white</item>
+    </style>
+    <style name="TransparentText">
+        <item name="android:textColor">@android:color/transparent</item>
+    </style>
 </resources>

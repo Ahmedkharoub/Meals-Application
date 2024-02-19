@@ -1,3 +1,36 @@
 <resources>
     <string name="app_name">MealsApplication</string>
+    <string name="user_name">Enter your UserName</string>
+    <string name="password">Enter your Password</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login">LogIn</string>
+    <string name="account"><u>I Don\'t Have Account</u></string>
+    <string name="back">Back</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="email">Enter Email</string>
+    <string name="password_power">Passowrd Should Be</string>
+    <string name="eight_char">At least 8 characters</string>
+    <string name="uppercase">Minimum one uppercase</string>
+    <string name="number">Minimum one number</string>
+    <string name="symbol">Minimum one symbol</string>
+    <string name="name_error">Please Enter Your Name</string>
+    <string name="email_error">Please Enter Your Email</string>
+    <string name="password_error">Please Enter Your Password</string>
+    <string name="siginup">SiginUp</string>
+    <string name="valid_message">Your Email Not Valid</string>
+    <string name="confirm">Your Password is Confirmed </string>
+    <string name="password_error_conf_empty">Your Confirm Password is Empty\n</string>
+    <string name="or">Or</string>
+    <string name="default_web_client_id" translatable="false">233521341120-ahaguvbpmassqd4e5bgrvgbefh12one4.apps.googleusercontent.com</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="description">Random meal description</string>
+    <string name="tittle">Random meal title</string>
+    <string name="category">Meal Details Category</string>
+    <string name="meal_details_title">Meal Details Title</string>
+    <string name="area">Meal Details Area</string>
+    <string name="instructions">Meal Details Instructions</string>
+    <string name="agree">Agree</string>
+
 </resources>
